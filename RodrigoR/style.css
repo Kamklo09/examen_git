@@ -1,0 +1,116 @@
+h1,h2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 25px;
+    margin: 1%;
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+Img {
+    margin: 2%;
+    box-shadow: 0 0 10px #0000006e;
+}
+
+nav, img {
+margin: 0;
+text-align: center;
+}
+
+#Catshow-Video {
+    width: 40%;
+    height: 40%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #0000006e;
+}
+
+header {
+    background-color: #3a8fc9;
+    box-shadow: 0 0 10px #0000006e;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-family: 'Arial', sans-serif;
+    background-color: #47daff00;
+}
+
+a:hover {
+    background-color: #fff;
+    color: brown;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+/* efecto hover */
+.nav-links a:hover {
+    background-color: #fff;
+    color: brown;
+}
+
+nav {
+    background-color: #fffd9800;
+    padding: 10px;
+}
+
+main {
+    background-color: #f698ff00;
+    padding: 20px;
+}
+
+    section {
+    background-color: #ff98ae00;
+    padding: 10px;
+    display: flex;
+    }
+
+    .textoinfo {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+footer {
+    background-color: #98ffb700;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-image: url('https://static.wikia.nocookie.net/backrooms-freewriting/images/9/92/Level_3_%E2%80%9CSkybox%E2%80%9D.png/revision/latest?cb=20241029120420');
+    background-size: cover;
+    width: 100%; /* Ocupa todo el ancho si es pequeño */
+    max-width: 1920px; /* No crece más de esto en pantallas grandes */
+    min-width: 1920px; 
+    margin: 0 auto;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
