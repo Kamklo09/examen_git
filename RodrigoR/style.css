@@ -10,7 +10,7 @@ p {
     text-align: center;
 }
 
-Img {
+img {
     margin: 2%;
     box-shadow: 0 0 10px #0000006e;
 }
@@ -44,7 +44,7 @@ margin: 0;
 text-align: center;
 }
 
-#Catshow-Video {
+.Catshow-Video {
     width: 40%;
     height: 40%;
     border-radius: 10px;
@@ -76,7 +76,7 @@ header {
     align-items: center;
     background-color: #3a8fc9; 
     height: 60px;
-    width: 1900px;
+    width: 100%;
 }
 
 #Enviarmensaje {
@@ -87,7 +87,6 @@ header {
 
 form {
     width: 1000px;
-    height: 424px;
     background-color: #3a8fc9;
     box-shadow: 0 0 10px #0000006e;
 }
@@ -199,9 +198,7 @@ body {
     background-image: url('https://static.wikia.nocookie.net/backrooms-freewriting/images/9/92/Level_3_%E2%80%9CSkybox%E2%80%9D.png/revision/latest?cb=20241029120420');
     background-size: cover;
     width: 100%;
-    max-width: 1920px;
-    min-width: 1920px; 
-    margin: 0 auto;
+    margin: 0;
 }
 
 ::-webkit-scrollbar {
