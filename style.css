@@ -171,3 +171,16 @@ button {
 button:hover {
     background-color: #218838;
 }
+
+.footer-sencillo{
+    background-color: white;
+    color: rgb(13, 187, 22);
+    padding: 10px 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+.footer-contenido{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
