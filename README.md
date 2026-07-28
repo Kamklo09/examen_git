@@ -1,13 +1,8 @@
 # examen_git
 # examen_git
 poner aqui el nombre de usuario de github.
-<<<<<<< HEAD:RodrigoR/README.md
-"ccreativebboy-source".
 
-1.- 
-=======
 1.- Shall0t
->>>>>>> origin/main:README.md
 2.-
 3.-
 4.-
@@ -16,11 +11,7 @@ poner aqui el nombre de usuario de github.
 7.-
 8.-
 9.-
-<<<<<<< HEAD:RodrigoR/README.md
-10.-
-=======
 10.- Mikosss
->>>>>>> origin/main:README.md
 11.- ccreativebboy
 12.-
 13.-samirpenahuaman
@@ -54,8 +45,4 @@ poner aqui el nombre de usuario de github.
 41.-
 42.-
 43.-
-<<<<<<< HEAD:RodrigoR/README.md
 44.-
-=======
-44.-
->>>>>>> origin/main:README.md
