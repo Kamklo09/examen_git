@@ -45,8 +45,4 @@ poner aqui el nombre de usuario de github.
 41.-
 42.-
 43.-
-<<<<<<< HEAD:RodrigoR/README.md
 44.-
-=======
-44.-
->>>>>>> origin/main:README.md
