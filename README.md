@@ -34,7 +34,7 @@ poner aqui el nombre de usuario de github.
 31.-
 32.-
 33.-  
-34.-
+34.-Owen Rojas
 35.-
 36.-
 37.-
